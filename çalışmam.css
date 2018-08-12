@@ -1,0 +1,28 @@
+﻿img.anaresim{
+    width: 270px;/*genişlik */
+    height: 90px;/*yükseklik */
+    margin-top: 200px;/*yukarıdan yükseklik */
+}
+input.kutucuk{
+	margin-top: 15px;/*yukardan yükseklik bırakır  MARGİN= KENAR*/
+	width: 644px;/*genişlik */
+	height: 44px;/* yükseklik*/
+	padding-left: 10px;/*soldan iç boşluk PADDİNG=İÇ*/
+	font-size: 15px;/* yazı boyutu*/
+	border-radius: 3.5px;/* kenar eğimi ovallik */
+	border: 1px solid #ccc;/* kenar kalınlık */
+	border-color: #DCDCDC;
+  }
+  #alan{
+  	background-color: #DCDCDC;
+    margin-right: 100px;/*sağdan boşluk */
+    margin-top: 300px;/* yukardan boşluk*/
+    margin-left: 200px;/* soldan boşluk*/
+    border-radius: 8px;/*kenar eğimi */
+    font-size: 25px;/* yazı boyutu*/
+    padding-left: 20px;/*içten sol taraftan boşluk */
+    background 
+  }
+  img.resim{
+  	
+  }

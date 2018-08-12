@@ -1,0 +1,31 @@
+img.logo{/*class da nokta koy*/
+	margin-top: 150px;/*üstten boşlukbırakır.*/
+	width: 272px;/*genişlği ayarlamak için*/
+	height: 92px;/*yüksekliği ayarlamak için*/
+    margin-bottom: 15px;/*aşşağıya boşluk bırakır*/
+}
+
+input#kutucuk{/*id de # bundan koy*/
+	width: 500 px;/*genişlik*/
+	height: 30px;/*yükseklik*/
+    padding-left: 20px;/*içten boşluk*/
+    font-size: 15px;/*yazı büyüklüğü*/
+    color: red;
+    border-radius: 8.5px;/*köşeleri ovall yapar*/
+    margin-bottom: 15px;
+    border: 2px solid #ccc;/*kenarlık*/
+}
+button.buton{
+	height: 30px;/*genişlik*/
+    border: 2px solid #ccc;
+}
+div#alan{
+	background-color: red;/*arka plan rengi*/
+	text-align: center ;
+	padding-top: 10px;/*div içine yukardan boşluk*/
+    padding-bottom: 10px; /*div içine aşşağıdan boşluk*/
+    margin-top: 250px;/*dive yukardan boşluk verir*/
+}
+body{
+	margin:0px;
+}
